@@ -1,0 +1,39 @@
+
+.A{
+    background-color: rgb(20, 213, 213);
+    border-style: dotted;
+}
+.B{
+    background-color: rgb(15, 15, 187);
+    border-style: groove;
+}
+.C{
+    background-color: crimson;
+    border-style: double;
+}
+button{
+    background-color: aqua;
+    color: rgb(42, 171, 22);
+    height: 55px;
+    width: 100px;
+    padding: 15 px;
+    border-radius:55px;
+    margin: 200px,200px,200px,200px;
+    margin-left:200px;
+    margin-bottom: 200px;
+    border-radius: 55px;
+    border-style:none;
+    outline-style: dotted;
+    outline-color:rgb(0, 0, 0);
+    border:rgb(16, 187, 144) 10px solid;
+}
+button:hover{
+    background-color: rgb(198, 225, 18);
+}
+/*{
+background :[background-image]
+[background-repeat]
+[background-position]
+[backgrond-attachment];
+background:urlurl(https://tse1.mm.bing.net/th?id=OIP.xvPooDmh8NeYGT2vpib2AAHaEK&pid=Api&P=0&h=180);
+}*/
